@@ -1,0 +1,35 @@
+# STEP 1 — RECON (`lumascreative.com`)
+
+- **Platform**: Custom React SPA + Node.js/Express server (`window.__INIT_DATA__` SSR state + `/api/*` public JSON endpoints; replaced an earlier 2025 WordPress + Elementor 3.27.6 site)
+- **Frameworks & Versions**:
+  - React `19.x` (`react`, `react-dom`)
+  - React Router `7.13.1` (`react-router`, `react-router-dom`)
+  - Lucide React `0.546.0` (`lucide-react`)
+  - Socket.IO Client (`socket.io-client`, admin realtime chunk)
+  - Markdown parser (`marked` / custom Markdown chunk)
+- **CSS System**: Tailwind CSS `v4.2.1` (`@tailwindcss/vite` + custom CSS variables & component utilities)
+- **Bundler**: Vite (ESM bundle with `manualChunks` vendor splitting: `react`, `motion`, lazy route chunks)
+- **Animation & Scroll Libraries**:
+  - Motion / Framer Motion `v12` (`motion` / `framer-motion`)
+  - Lenis `1.3.26` (`lenis`)
+  - Native CSS `@keyframes` (`marquee`, `card-breathe`, `portfolio-ticker`, `scroll-line`, `dot-record`) + `IntersectionObserver` + `requestAnimationFrame`
+- **Fonts**:
+  - `Zen Dots` (self-hosted `/fonts/zen-dots-latin.woff2`)
+  - `Inter` / `Inter Display` (`opsz 32`)
+  - `Syne`
+  - `Poppins` (admin headings)
+  - `Urbanist` (admin body)
+- **Analytics / 3rd-Party Scripts**:
+  - Analytics trackers: None detected in frontend bundle
+  - Video / Media Embeds: YouTube IFrame Embed (`www.youtube.com`, `www.youtube-nocookie.com`), Google Drive Preview (`drive.google.com`)
+  - External Integrations: Calendly (`calendly.com`), WhatsApp (`wa.me`)
+- **Hostnames Serving Files / Assets**:
+  - `lumascreative.com`
+  - `res.cloudinary.com` (cloud `dyyrjhuho`)
+  - `i.ytimg.com`
+  - `img.youtube.com`
+  - `lh3.googleusercontent.com` (proxied via `res.cloudinary.com/dyyrjhuho/image/fetch/...`)
+  - `fonts.googleapis.com`
+  - `fonts.gstatic.com`
+  - `www.youtube.com`
+  - `www.youtube-nocookie.com`
