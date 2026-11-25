@@ -1,0 +1,81 @@
+{
+  "organizationJsonLd": {
+    "@context": "https://schema.org",
+    "@type": "VideoProductionService",
+    "name": "Lumas Creative",
+    "description": "Creative Production and Post-production Studio helping brands with Commercial, Documentary, Podcast, VFX, and Animation.",
+    "url": "/",
+    "logo": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778341660/lumas-portfolio/settings/kytkqd9p5txovzzw053p.png",
+    "email": "Lumascreative@gmail.com",
+    "telephone": "+088 1778250304",
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "138/1 9 Dhaka Rampura",
+      "postalCode": "1219",
+      "addressLocality": "Dhaka",
+      "addressCountry": "BD"
+    },
+    "sameAs": [
+      "https://www.instagram.com/lumascreative",
+      "https://www.linkedin.com/company/lumas-creative",
+      "https://www.facebook.com/lumascreative"
+    ]
+  },
+  "routes": {
+    "/": {
+      "title": "Lumas Creative",
+      "description": "500M+ views for 200+ brands. Creative production and post-production studio in Dhaka for commercials, podcasts, events, real estate, and VFX.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/projects": {
+      "title": "Projects | Lumas Creative",
+      "description": "A mix of commercials, podcasts, documentaries and visual experiments made for brands with something real to say.",
+      "ogImage": "/img.youtube.com/vi/GCUDpIwNeqE/maxresdefault.jpg"
+    },
+    "/about": {
+      "title": "About | Lumas Creative",
+      "description": "A compact crew of directors, producers, camera nerds and edit-room obsessives who care about the work and the brands behind it.",
+      "ogImage": "/i.ytimg.com/vi_webp/F4zKWosGHQ4/maxresdefault.webp"
+    },
+    "/blogs": {
+      "title": "Blogs | Lumas Creative",
+      "description": "Notes on production, storytelling, creative decisions, and the small details that keep good work from becoming forgettable.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/contact": {
+      "title": "Contact | Lumas Creative",
+      "description": "Send the polished brief or the scrappy voice-note version. We’ll ask the right questions, keep the jargon low, and help you find the clearest way forward.",
+      "ogImage": "/img.youtube.com/vi/cCje7ACDyvc/maxresdefault.jpg"
+    },
+    "/privacy-policy": {
+      "title": "Privacy Policy | Lumas Creative",
+      "description": "Privacy Policy for Lumas Creative.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/terms-conditions": {
+      "title": "Terms & Conditions | Lumas Creative",
+      "description": "Terms of Service for Lumas Creative.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/refund-policy": {
+      "title": "Refund Policy | Lumas Creative",
+      "description": "Refund Policy for Lumas Creative.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/shop/clovix": {
+      "title": "Clovix | Lumas Creative",
+      "description": "Our in-house desktop app for editing video without the busywork.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/shop/clovix-monitor": {
+      "title": "Clovix Monitor | Lumas Creative",
+      "description": "The office dashboard that shows where every Lumas video is, step by step.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    },
+    "/shop/layerize": {
+      "title": "Layerize | Lumas Creative",
+      "description": "A free panel that turns an HTML motion video into native, editable After Effects layers.",
+      "ogImage": "/i.ytimg.com/vi/F4zKWosGHQ4/hqdefault.jpg"
+    }
+  }
+}

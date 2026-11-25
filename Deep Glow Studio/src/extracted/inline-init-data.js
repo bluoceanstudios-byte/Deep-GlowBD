@@ -1,0 +1,742 @@
+// Extracted & pretty-printed SSR hydration payload (window.__INIT_DATA__)
+window.__INIT_DATA__ = {
+  "settings": {
+    "id": "global",
+    "heroSubtitle": "From Idea to Conversion — Turning Creativity into Growth.",
+    "heroTitle": "Small in size,",
+    "heroTitleHighlight": "Big in impact.",
+    "heroDescription": "Creative Production and Post-production Studio helping brands with Commercial | Documentary | Podcast | VFX | Animation",
+    "heroVideoUrl": "/res.cloudinary.com/dyyrjhuho/video/upload/v1778341527/lumas-portfolio/settings/yx1mdovgq72dsjw6qtwo.mp4",
+    "heroPosterUrl": "",
+    "logoLightUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778341652/lumas-portfolio/settings/thkzcnscjp4dgyrndhtx.png",
+    "logoDarkUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778341660/lumas-portfolio/settings/kytkqd9p5txovzzw053p.png",
+    "faviconUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778341678/lumas-portfolio/settings/eqqjwqe2rs4c6bcyq7ld.png",
+    "phone": "+088 1778250304",
+    "email": "Lumascreative@gmail.com",
+    "whatsappNumber": "+088 1778250304",
+    "calendlyUrl": "https://calendly.com/lumascreative/30min",
+    "address": "138/1 9 Dhaka Rampura",
+    "city": "1219",
+    "instagramUrl": "https://www.instagram.com/lumascreative",
+    "twitterUrl": "",
+    "linkedinUrl": "https://www.linkedin.com/company/lumas-creative",
+    "youtubeUrl": "",
+    "teamCarouselDistance": 520,
+    "teamCarouselCardSize": 290,
+    "teamCarouselGrayscale": false,
+    "teamHeaderTitle": "Small Team",
+    "teamHeaderHighlight": "",
+    "teamBackgroundText": "Big \nResult",
+    "teamBackgroundTextSize": 16,
+    "teamBackgroundTextLineHeight": 0.9,
+    "teamCarouselStairOffset": 140,
+    "footerTagline": "\nLumas Creative is a creative production and marketing Agency trusted by industry leaders.  helping brands turn ideas into conversion-driven assets.",
+    "copyrightText": "Lumas Creative",
+    "siteTitle": "Lumas Creative",
+    "siteDescription": "Creative Production and Post-production Studio",
+    "trustedBrandsGrayscale": false,
+    "trustedBrandsMarqueeSpeed": 85,
+    "privacyPolicy": "Privacy Policy\nLast Updated: May 2026\n\n1. Introduction\nWelcome to Lumas Creative (\"we,\" \"our,\" or \"us\"). We respect your privacy and are committed to protecting your personal data. This Privacy Policy will inform you as to how we look after your personal data when you visit our website and tell you about your privacy rights.\n\n2. Information We Collect\nWe may collect, use, and store different kinds of personal data about you which we have grouped together as follows:\n\n    Identity & Contact Data: Includes first name, last name, email address, and telephone number when you book a meeting or fill out a contact form.\n    Technical Data: Includes internet protocol (IP) address, browser type and version, time zone setting, and operating system used to access our website.\n    Project Details: Any information you share regarding your business or project requirements during inquiries.\n\n\n3. How We Use Your Information\nWe will only use your personal data for the following purposes:\n\n    To respond to your inquiries and provide customer support.\n    To schedule and manage appointments or meetings.\n    To improve our website, services, and overall user experience.\n    To communicate with you regarding project updates or relevant service offers.\n\n\n4. Data Security & Sharing\nWe have put in place appropriate security measures to prevent your personal data from being accidentally lost, used, or accessed in an unauthorized way. We do not sell, trade, or rent your personal information to third parties. We may share data only with trusted service providers who assist us in operating our website or conducting our business, so long as those parties agree to keep this information confidential.\n\n5. Your Rights\nDepending on your location, you may have rights under data protection laws in relation to your personal data, including the right to request access, correction, or deletion of your personal data.\n\n6. Contact Us\nIf you have any questions about this Privacy Policy or our privacy practices, please contact us at: lumascreative@gmail.com",
+    "termsOfService": "Terms of Service\nLast Updated: May 2026\n\n1. Agreement to Terms\nBy accessing or using the Lumas Creative website, you agree to be bound by these Terms of Service. If you disagree with any part of the terms, then you may not access the service.\n\n2. Intellectual Property Rights\nUnless otherwise indicated, the website and its entire contents, features, and functionality (including but not limited to all information, software, text, displays, images, video, and audio, and the design, selection, and arrangement thereof) are owned by Lumas Creative, its licensors, or other providers of such material and are protected by international copyright, trademark, patent, trade secret, and other intellectual property or proprietary rights laws.\nYou may not reproduce, distribute, modify, create derivative works of, publicly display, or exploit any of the material on our website without our prior written consent.\n\n3. User Responsibilities\nWhen booking a service or submitting a contact form, you agree to provide accurate, current, and complete information. You are responsible for ensuring that your use of our website complies with all applicable local, national, and international laws and regulations.\n\n4. Services and Deliverables\nAll project timelines, deliverables, and payment terms will be outlined in a separate mutual agreement or contract prior to the commencement of any creative work. The information provided on this website is for general informational purposes and does not constitute a binding contract until a formal agreement is signed.\n\n5. Limitation of Liability\nIn no event shall Lumas Creative, nor its directors, employees, partners, agents, suppliers, or affiliates, be liable for any indirect, incidental, special, consequential or punitive damages, including without limitation, loss of profits, data, use, goodwill, or other intangible losses, resulting from your access to or use of or inability to access or use the website.\n\n6. Changes to Terms\nWe reserve the right, at our sole discretion, to modify or replace these Terms at any time. By continuing to access or use our website after those revisions become effective, you agree to be bound by the revised terms.\n\n7. Contact Us\nIf you have any questions about these Terms, please contact us at: lumascreative@gmail.com",
+    "defaultMeetingDuration": 30,
+    "businessHoursStart": "10:00",
+    "businessHoursEnd": "18:00"
+  },
+  "projects": [
+    {
+      "id": "cmv4cmutf0000o10u2f9amm5m",
+      "title": " Egypt's National Day | Event Coverage",
+      "category": "Events",
+      "videoUrl": "https://youtu.be/F4zKWosGHQ4",
+      "thumbnailUrl": "",
+      "clientName": "",
+      "shortDescription": "",
+      "results": "",
+      "contentType": "video",
+      "year": "",
+      "services": "",
+      "gallery": [],
+      "sortOrder": 0,
+      "createdAt": "2026-10-11T21:42:28.992Z",
+      "updatedAt": "2026-10-11T21:42:48.522Z"
+    },
+    {
+      "id": "cmp3nmpws0003m90uqjj2d769",
+      "title": "Pixels | Aesthetic Stationery",
+      "category": "Commercial",
+      "videoUrl": "https://youtu.be/8VEviE26FAU",
+      "thumbnailUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1781353371/lumas-portfolio/projects/oajhlgthlay24s7xfxyv.jpg",
+      "clientName": "",
+      "shortDescription": "This is one of our favorite works. Small stationary shop, but you can see how a good video can change the perspective ",
+      "results": "2M+",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 1,
+      "createdAt": "2026-05-13T06:04:18.221Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp34utkk0001m90ubfml7xvc",
+      "title": "The Blueprint Ep-1",
+      "category": "Podcast",
+      "videoUrl": "https://youtu.be/GCUDpIwNeqE?si=a9PXlehuf0nNdnHF",
+      "thumbnailUrl": "/img.youtube.com/vi/GCUDpIwNeqE/maxresdefault.jpg",
+      "clientName": "neelnafis",
+      "shortDescription": "we produced this podcast",
+      "results": "316K Views",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 2,
+      "createdAt": "2026-05-12T21:18:43.509Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp3p0cp20004m90u0bemyne2",
+      "title": "The Room of Recording | Khalid Farhan",
+      "category": "Commercial",
+      "videoUrl": "https://youtu.be/06SsSrHvdcE",
+      "thumbnailUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1781353637/lumas-portfolio/projects/alngfgnhyqrn322je9s2.jpg",
+      "clientName": "the Room of recording",
+      "shortDescription": "",
+      "results": "300K+",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 3,
+      "createdAt": "2026-05-13T06:42:53.894Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp351q190002m90upstyq8ei",
+      "title": " Is Iran Winning This War?  | The Ramjan Show",
+      "category": "Podcast",
+      "videoUrl": "https://youtu.be/h43k1-pLKDg?si=8iuOeY628Zv7i8tQ",
+      "thumbnailUrl": "/img.youtube.com/vi/h43k1-pLKDg/maxresdefault.jpg",
+      "clientName": " The Ramjan Show",
+      "shortDescription": "Ramjan Ali Emon is one of our most valued clients. We proudly support his full podcast production journey — from professional shooting to seamless post-production editing  bringing his vision to life with quality and creativity.",
+      "results": "25K+ ",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 4,
+      "createdAt": "2026-05-12T21:24:05.517Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp3pcv660005m90uqr5lrzyq",
+      "title": "Combat Sports Trailer | DHK of Jamuna Group",
+      "category": "Commercial",
+      "videoUrl": "https://youtu.be/14YJJ1VusLE",
+      "thumbnailUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1781353678/lumas-portfolio/projects/b5bezzmzs2cyaa2mjujb.jpg",
+      "clientName": "Jamuna Group ",
+      "shortDescription": "",
+      "results": "2.2M+",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 5,
+      "createdAt": "2026-05-13T06:52:37.710Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp3pezzw0006m90uxnfvmj7r",
+      "title": " ACS OVC | BUET DREAM",
+      "category": "Commercial",
+      "videoUrl": "https://youtu.be/cCje7ACDyvc?si=zh5fPEu3Ul0KoXDR",
+      "thumbnailUrl": "/img.youtube.com/vi/cCje7ACDyvc/maxresdefault.jpg",
+      "clientName": "ACS",
+      "shortDescription": "",
+      "results": "1.5M+",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 6,
+      "createdAt": "2026-05-13T06:54:17.277Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    },
+    {
+      "id": "cmp3pgiix0007m90uq47eevkx",
+      "title": "  BD  Skip navigation acs ovc     Create   Avatar image Is Dhaka University Admission Worth It? | ACS OVC",
+      "category": "Commercial",
+      "videoUrl": "https://youtu.be/FVnER3-PNO0?si=xSnCT58QYXhHt4LE",
+      "thumbnailUrl": "/img.youtube.com/vi/FVnER3-PNO0/maxresdefault.jpg",
+      "clientName": "ACS",
+      "shortDescription": "",
+      "results": "1.3M+",
+      "contentType": "video",
+      "year": null,
+      "services": null,
+      "gallery": [],
+      "sortOrder": 7,
+      "createdAt": "2026-05-13T06:55:27.946Z",
+      "updatedAt": "2026-10-11T21:42:36.095Z"
+    }
+  ],
+  "teamMembers": [
+    {
+      "id": "cmoyifgav0001be2lg9rbtq5c",
+      "name": "Towfiq Islam",
+      "role": "Founder & Head of Production",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/towfiq-islam.jpg",
+      "facebookUrl": null,
+      "linkedinUrl": null,
+      "instagramUrl": null,
+      "sortOrder": 0,
+      "createdAt": "2026-05-09T15:39:50.148Z",
+      "updatedAt": "2026-10-11T22:02:35.513Z"
+    },
+    {
+      "id": "cmoyijmlf0003be2lzbzqfheg",
+      "name": "Saad Alam",
+      "role": "Lead Editor & Cinematographer",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/saad-alam.jpg",
+      "facebookUrl": null,
+      "linkedinUrl": null,
+      "instagramUrl": null,
+      "sortOrder": 1,
+      "createdAt": "2026-05-09T15:43:04.934Z",
+      "updatedAt": "2026-10-11T22:02:35.513Z"
+    },
+    {
+      "id": "cmoyihhk70002be2lvuqh2wrz",
+      "name": "Tawhid Nafis",
+      "role": "Senior Editor & Lead Designer",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/tawhid-nafis.jpg",
+      "facebookUrl": null,
+      "linkedinUrl": null,
+      "instagramUrl": null,
+      "sortOrder": 2,
+      "createdAt": "2026-05-09T15:41:24.754Z",
+      "updatedAt": "2026-10-11T22:02:35.513Z"
+    },
+    {
+      "id": "cmoysa5vf0004az2k1yysyfp0",
+      "name": "Mahmudur Rahman",
+      "role": "Cinematographer",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/mahmudur-rahman.jpg",
+      "facebookUrl": null,
+      "linkedinUrl": null,
+      "instagramUrl": null,
+      "sortOrder": 3,
+      "createdAt": "2026-05-09T20:15:39.580Z",
+      "updatedAt": "2026-10-11T22:02:35.513Z"
+    },
+    {
+      "id": "cmoys8iwl0003az2khf8cbc1r",
+      "name": "Fahim Rahman",
+      "role": "Cinematographer",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/fahim-rahman.jpg",
+      "facebookUrl": null,
+      "linkedinUrl": null,
+      "instagramUrl": null,
+      "sortOrder": 4,
+      "createdAt": "2026-05-09T20:14:23.157Z",
+      "updatedAt": "2026-10-11T22:02:35.513Z"
+    }
+  ],
+  "services": [],
+  "processSteps": [],
+  "testimonials": [
+    {
+      "id": "cmp3pukx20008m90ue1eg1s5g",
+      "clientName": "akhysami",
+      "role": "Content Creator",
+      "company": "",
+      "quote": "When the work speaks for itself, words hit different. This is why we show up every single day — to deliver quality that earns trust, not just attention.\n🔥 Ready to be our next success story?",
+      "videoUrl": "https://youtu.be/UahN80sIbE8",
+      "imageUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1784744034/lumas-portfolio/testimonials/ww0awoepnel9jwmv73zt.jpg",
+      "ytSubscribers": "",
+      "ytViews": "",
+      "igFollowers": "224K+",
+      "fbFollowers": "",
+      "tiktokFollowers": "990M+",
+      "companyLogoUrl": null,
+      "sortOrder": 0,
+      "createdAt": "2026-05-13T07:06:24.230Z",
+      "updatedAt": "2026-07-22T18:14:02.102Z"
+    }
+  ],
+  "trustedBrands": [
+    {
+      "id": "cmoyt24gt0006az2kx687bioo",
+      "name": "airtel",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359042/lumas-portfolio/brands/xpunbiq1dfwnxbiwsfss.png",
+      "sortOrder": 2,
+      "createdAt": "2026-05-09T20:37:24.126Z",
+      "updatedAt": "2026-05-09T20:37:24.126Z"
+    },
+    {
+      "id": "cmoyt28980007az2k5jdgxjix",
+      "name": "bkashj",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359047/lumas-portfolio/brands/blp5zqjzfhn9g8d8utg1.png",
+      "sortOrder": 3,
+      "createdAt": "2026-05-09T20:37:29.037Z",
+      "updatedAt": "2026-05-09T20:37:29.037Z"
+    },
+    {
+      "id": "cmoyt2mi4000aaz2kylx8bkdd",
+      "name": "gp",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359065/lumas-portfolio/brands/vwetkbn8ncvaz7r0aun1.png",
+      "sortOrder": 5,
+      "createdAt": "2026-05-09T20:37:47.501Z",
+      "updatedAt": "2026-05-09T20:37:47.501Z"
+    },
+    {
+      "id": "cmoyt2r3l000baz2kogj8cj4y",
+      "name": "ABG",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359069/lumas-portfolio/brands/vlfoiyecqoffaq47fvtb.png",
+      "sortOrder": 6,
+      "createdAt": "2026-05-09T20:37:53.457Z",
+      "updatedAt": "2026-05-09T20:37:53.457Z"
+    },
+    {
+      "id": "cmp429iyh0009m90ut4d8ts6k",
+      "name": "edison",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778676831/lumas-portfolio/brands/qpqprjj0wmtnlbuyeoqs.png",
+      "sortOrder": 7,
+      "createdAt": "2026-05-13T12:53:56.922Z",
+      "updatedAt": "2026-05-13T12:53:56.922Z"
+    },
+    {
+      "id": "cmoyt2uz7000caz2k7uzwoswr",
+      "name": "sc",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359077/lumas-portfolio/brands/ptyzyswosfagbuu9coqp.png",
+      "sortOrder": 7,
+      "createdAt": "2026-05-09T20:37:58.484Z",
+      "updatedAt": "2026-05-09T20:37:58.484Z"
+    },
+    {
+      "id": "cmoyt2yfc000daz2kiwc5zvej",
+      "name": "suzuki",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359081/lumas-portfolio/brands/sqjsvgofgx65nddsx5xr.png",
+      "sortOrder": 8,
+      "createdAt": "2026-05-09T20:38:02.953Z",
+      "updatedAt": "2026-05-09T20:38:02.953Z"
+    },
+    {
+      "id": "cmoyt6u2j000faz2kjqp8pkyw",
+      "name": "10ms",
+      "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359261/lumas-portfolio/brands/peelfseqdc4xrm2vy33r.png",
+      "sortOrder": 10,
+      "createdAt": "2026-05-09T20:41:03.931Z",
+      "updatedAt": "2026-05-09T20:41:03.931Z"
+    }
+  ],
+  "blogPosts": [],
+  "albums": [],
+  "content": {
+    "seo": {
+      "home": {
+        "title": "",
+        "imageUrl": "",
+        "description": ""
+      },
+      "about": {
+        "title": "About",
+        "imageUrl": "",
+        "description": ""
+      },
+      "blogs": {
+        "title": "Blogs",
+        "imageUrl": "",
+        "description": ""
+      },
+      "albums": {
+        "title": "Photo Albums",
+        "imageUrl": "",
+        "description": ""
+      },
+      "contact": {
+        "title": "Contact",
+        "imageUrl": "",
+        "description": ""
+      },
+      "projects": {
+        "title": "Projects",
+        "imageUrl": "",
+        "description": ""
+      },
+      "services": {
+        "title": "Services",
+        "imageUrl": "",
+        "description": ""
+      },
+      "ogImageUrl": ""
+    },
+    "home": {
+      "faqs": [
+        {
+          "answer": "We handle the full production pipeline: concept and scripting, filming, podcast production, editing, color grading, sound, motion graphics, animation and VFX. You can hire us end to end or for a single stage.",
+          "question": "What services do you offer?"
+        },
+        {
+          "answer": "It depends on the scope: shoot days, crew, locations, animation and turnaround. Share your brief and budget and we will send a clear quote with options that fit.",
+          "question": "How much does video production cost?"
+        },
+        {
+          "answer": "Short social content can be turned around in days. Commercials and documentaries usually take a few weeks from brief to final delivery. We agree the timeline with you before we start.",
+          "question": "How long does it take to produce a video?"
+        },
+        {
+          "answer": "Yes. Many projects start with just an idea. Our team develops the concept, writes the script and prepares storyboards and shot lists before anything is filmed.",
+          "question": "Can you help with scriptwriting and storyboarding?"
+        },
+        {
+          "answer": "Brief and discovery, concept and script, pre-production planning, the shoot, then editing and post-production with review rounds until you are happy with the final cut.",
+          "question": "What is the production process like?"
+        },
+        {
+          "answer": "We create content designed to perform, including cut-downs, reels and platform-specific versions, so your campaign works across every channel you use.",
+          "question": "Do you provide video marketing services?"
+        },
+        {
+          "answer": "Absolutely. Tell us what you have to work with and we will shape the idea, crew and deliverables to get the most impact from it.",
+          "question": "Can you work with a specific budget?"
+        }
+      ],
+      "stats": [],
+      "blogCta": "Read All Blogs",
+      "aboutCta": "Know More About Us",
+      "faqLabel": "[Questions we hear a lot]",
+      "faqTitle": "Ask us the / awkward stuff",
+      "aboutBody": "We are small in size and big in impact. Whether it is a commercial, a podcast, a documentary or an animation, we approach every project with creativity, craft and a clear focus on results for the brand behind it.",
+      "aboutLead": "A creative production and post-production studio *helping brands turn ideas* into *content that converts*, from the first concept to the final export.",
+      "blogLabel": "[Notes from the edit]",
+      "blogTitle": "Notes from / between takes",
+      "aboutLabel": "[Behind the cameras]",
+      "aboutTitle": "We are Lumas Creative®",
+      "categories": [
+        {
+          "link": "/projects?category=Commercial",
+          "title": "Commercials and Advertisements",
+          "imageUrl": "",
+          "description": "Short, attention-grabbing films that put your product, service or brand in front of the right people and make them stop scrolling."
+        },
+        {
+          "link": "/projects?category=Podcast",
+          "title": "Podcasts",
+          "imageUrl": "",
+          "description": "Multi-camera podcast production and post, from set design and lighting to edited episodes and cut-down clips for every platform."
+        },
+        {
+          "link": "/projects",
+          "title": "Documentaries",
+          "imageUrl": "",
+          "description": "Real stories told with care. We research, shoot and edit documentaries that inform, move and stay with the audience."
+        },
+        {
+          "link": "/projects",
+          "title": "Corporate Videos",
+          "imageUrl": "",
+          "description": "Brand films, explainers and internal content that make businesses look as good as the work they do."
+        },
+        {
+          "link": "/projects",
+          "title": "Shorts & Reels",
+          "imageUrl": "",
+          "description": "Vertical-first content built for social: fast hooks, clean edits and formats designed to be shared."
+        },
+        {
+          "link": "/projects",
+          "title": "Event Coverage",
+          "imageUrl": "",
+          "description": "Multi-camera coverage and same-week edits that capture the energy of launches, conferences and live events."
+        },
+        {
+          "link": "/projects",
+          "title": "Animation and VFX",
+          "imageUrl": "",
+          "description": "Motion graphics, 2D/3D animation and visual effects that add polish and impact to any production."
+        }
+      ],
+      "brandsLabel": "[Brands we have worked with]",
+      "featuredCta": "See All Projects",
+      "heroCtaLink": "/contact",
+      "servicesCta": "Explore Services",
+      "heroCtaLabel": "Start a Project",
+      "showreelWord": "SHOWREEL",
+      "categoriesCta": "Explore All Categories",
+      "featuredLabel": "[Selected work]",
+      "featuredTitle": "Fresh from / the edit room",
+      "servicesLabel": "[What we make]",
+      "servicesTitle": "Big idea? We’ll handle / the messy middle.",
+      "categoriesLabel": "[Who we make it for]",
+      "categoriesTitle": "Different worlds. / Same sharp eye.",
+      "showreelFullUrl": "",
+      "showreelVideoUrl": "",
+      "showreelPosterUrl": "",
+      "testimonialsBgUrl": "",
+      "testimonialsLabel": "[Kind words, zero scripts]",
+      "testimonialsTitle": "Nice words from people / with deadlines"
+    },
+    "about": {
+      "body": "Our mission is simple: to turn ideas into compelling visual stories that grow brands. Whether it is a commercial, a podcast, an event or an animation, we approach every project with creativity, enthusiasm and a commitment to exceeding expectations.",
+      "lead": "A creative production and post-production studio *helping brands turn ideas* into *content that converts*, from the first concept to the final export.",
+      "awards": [],
+      "values": [
+        {
+          "title": "Ideas with a pulse",
+          "description": "We believe in imagination and fresh thinking. Every concept we pitch is built to feel original and to stay with the audience."
+        },
+        {
+          "title": "Details matter",
+          "description": "Quality is non-negotiable. From the first frame to the final export, we sweat the small things so the work feels premium."
+        },
+        {
+          "title": "Built in the room",
+          "description": "We work closely with our clients, understand their goals and shape every project together, so the result feels like theirs."
+        },
+        {
+          "title": "Straight answers",
+          "description": "Honest timelines, clear pricing and open communication. No surprises, no jargon, just a team you can rely on."
+        }
+      ],
+      "gallery": [],
+      "howBody": "We start by diving headfirst into your idea: who it is for, what it needs to achieve and what will make it memorable. Then we plan, shoot and edit with that goal in mind.",
+      "reasons": [
+        {
+          "icon": "Sparkles",
+          "title": "Taste without the ego",
+          "description": "Strong creative direction that always serves your goals, not ours."
+        },
+        {
+          "icon": "ListChecks",
+          "title": "A process that behaves",
+          "description": "Clear plans, clear timelines and no surprises from brief to delivery."
+        },
+        {
+          "icon": "Handshake",
+          "title": "You stay in the room",
+          "description": "We work with you, not just for you. Your feedback shapes every cut."
+        },
+        {
+          "icon": "Lightbulb",
+          "title": "Smart fixes, no theatre",
+          "description": "Practical, creative solutions when budgets, timelines or locations get tricky."
+        },
+        {
+          "icon": "Users",
+          "title": "Small team, serious range",
+          "description": "Production, post, animation and VFX under one roof."
+        },
+        {
+          "icon": "ScanSearch",
+          "title": "We spot the tiny stuff",
+          "description": "Every frame, cut and sound is crafted for maximum impact."
+        }
+      ],
+      "whyBody": "People hire us because we care about results as much as the look of the work. Every frame is made to serve the brand and the audience.",
+      "howBody2": "Clear timelines, honest feedback rounds and a team that genuinely enjoys the process. That is how ideas become content people remember.",
+      "howQuote": "We keep you in the loop every step of the way because, after all, *it’s your story*.",
+      "howTitle": "How the good / stuff gets made",
+      "whyBody2": "From the first call to the final delivery, we make the process easy, collaborative and focused on what matters to you.",
+      "whyQuote": "We’re the friendly faces who turn your ideas into *content that performs*.",
+      "whyTitle": "Why clients keep / our number",
+      "heroTitle": "Meet the / people behind / the play button",
+      "teamLabel": "[Faces behind the frames]",
+      "teamTitle": "The people / behind the pixels",
+      "introTitle": "A small crew / with a lot of / range",
+      "philosophy": "We’re the storytellers and creative problem-solvers who turn your *ideas into cinematic content*. With us, every project is a chance to *make something that performs*.",
+      "howImageUrl": "",
+      "valuesLabel": "[What we won’t compromise on]",
+      "valuesTitle": "Good work, / minus the drama",
+      "whyImageUrl": "",
+      "heroImageUrl": "",
+      "reasonsTitle": "A few more reasons / to hit record",
+      "heroDescription": "A compact crew of directors, producers, camera nerds and edit-room obsessives who care about the work and the brands behind it."
+    },
+    "blogs": {
+      "heroTitle": "Ideas from the / cutting room",
+      "heroImageUrl": "",
+      "heroDescription": "Notes on production, storytelling, creative decisions, and the small details that keep good work from becoming forgettable."
+    },
+    "albums": {
+      "heroTitle": "Still frames, / loud stories",
+      "heroImageUrl": "",
+      "heroDescription": "Places, details, and blink-and-you-miss-it moments collected from the road, the set, and everywhere in between."
+    },
+    "global": {
+      "footerCta": "Let’s Collaborate",
+      "tiktokUrl": "",
+      "blogsEmpty": "New articles are on their way. Check back soon.",
+      "bookingTab": "Book a Session",
+      "legalTitle": "Legal",
+      "menuLabels": [
+        "Home",
+        "Projects",
+        "Albums",
+        "About",
+        "Services",
+        "Blogs"
+      ],
+      "messageTab": "Send Message",
+      "albumsEmpty": "New photo albums are coming soon.",
+      "facebookUrl": "https://www.facebook.com/lumascreative",
+      "framesLabel": "[Project Images]",
+      "framesTitle": "Frames from / the project",
+      "notFoundCta": "Back to Home",
+      "tickerWords": [
+        "Commercials",
+        "Podcasts",
+        "Documentary",
+        "VFX",
+        "Animation",
+        "Color Grading",
+        "Sound Design",
+        "Motion Graphics"
+      ],
+      "notFoundText": "The page you’re looking for has moved or never existed.",
+      "refundPolicy": "",
+      "contactButton": "Contact",
+      "notFoundTitle": "This scene didn’t make the cut",
+      "projectsEmpty": "No projects in this category yet.",
+      "whatsappLabel": "Chat on WhatsApp",
+      "allAlbumsLabel": "All Albums",
+      "footerHeadline": "Not limited to video, / we’re your / creative comrades.",
+      "newsletterTitle": "Subscribe to our newsletter",
+      "quickLinksTitle": "Quick Links",
+      "allProjectsLabel": "All Projects",
+      "keepReadingTitle": "Keep reading",
+      "keepWatchingTitle": "Keep watching"
+    },
+    "contact": {
+      "formTitle": "Come say",
+      "heroTitle": "Tell us what / you’re making",
+      "heroImageUrl": "",
+      "formHighlight": "hello!",
+      "heroDescription": "Send the polished brief or the scrappy voice-note version. We’ll ask the right questions, keep the jargon low, and help you find the clearest way forward."
+    },
+    "projects": {
+      "heroTitle": "Work worth / pausing for",
+      "heroImageUrl": "",
+      "heroDescription": "A mix of commercials, podcasts, documentaries and visual experiments made for brands with something real to say."
+    },
+    "services": {
+      "phases": [
+        {
+          "lead": "*Pre-production* is the planning phase where we lay the foundation for your project. This stage involves:",
+          "intro": "Before the cameras roll, the work begins with pre-production. This is where ideas take shape, scripts are written and plans are made.",
+          "items": [
+            {
+              "icon": "Lightbulb",
+              "title": "Concept Development",
+              "description": "We brainstorm ideas, themes and concepts that align with your goals and audience."
+            },
+            {
+              "icon": "ScrollText",
+              "title": "Scriptwriting",
+              "description": "Compelling scripts that convey your message clearly, for any format."
+            },
+            {
+              "icon": "BookOpen",
+              "title": "Storyboarding",
+              "description": "Storyboards and shot lists that map the visual sequence before the shoot."
+            },
+            {
+              "icon": "MapPinned",
+              "title": "Location & Talent",
+              "description": "Scouting the right locations and casting the right faces for your story."
+            },
+            {
+              "icon": "CalendarCheck",
+              "title": "Production Timeline",
+              "description": "A clear schedule that keeps everything on track and on time."
+            }
+          ],
+          "title": "Before the / camera rolls",
+          "images": [],
+          "cardTitle": "Pre Production"
+        },
+        {
+          "lead": "*Production* is where your project comes to life. Our production services include:",
+          "intro": "The heart of every project is the production phase. This is where your vision turns into footage.",
+          "items": [
+            {
+              "icon": "Clapperboard",
+              "title": "Cinematography",
+              "description": "Carefully framed, well-lit shots that make every second look premium."
+            },
+            {
+              "icon": "Mic",
+              "title": "Podcast Production",
+              "description": "Multi-camera podcast setups with broadcast-quality sound and lighting."
+            },
+            {
+              "icon": "Plane",
+              "title": "Drone Videography",
+              "description": "Aerial footage that adds scale and a fresh perspective."
+            },
+            {
+              "icon": "Video",
+              "title": "Multi-Camera Setup",
+              "description": "Multiple angles for events, interviews and live content."
+            },
+            {
+              "icon": "Aperture",
+              "title": "Studio & Green Screen",
+              "description": "Controlled studio shoots and chroma key for VFX-driven work."
+            }
+          ],
+          "title": "Rolling, for real",
+          "images": [],
+          "cardTitle": "Production"
+        },
+        {
+          "lead": "Our *post-production* services cover editing, sound, color, motion and visual effects:",
+          "intro": "The real magic happens in post-production, where raw footage becomes a polished, engaging film.",
+          "items": [
+            {
+              "icon": "Scissors",
+              "title": "Video Editing",
+              "description": "Story-first edits that keep the audience watching until the end."
+            },
+            {
+              "icon": "Palette",
+              "title": "Color Grading",
+              "description": "A consistent, cinematic look that fits your brand."
+            },
+            {
+              "icon": "AudioLines",
+              "title": "Sound Design",
+              "description": "Clean dialogue, music and sound effects that add impact."
+            },
+            {
+              "icon": "Box",
+              "title": "3D Animation and VFX",
+              "description": "Animation, compositing and effects that make ideas possible."
+            },
+            {
+              "icon": "Sparkles",
+              "title": "Motion Graphics",
+              "description": "Titles, lower thirds and animated graphics that explain and engage."
+            },
+            {
+              "icon": "Captions",
+              "title": "Subtitles & Deliverables",
+              "description": "Captions and platform-ready exports for every channel."
+            }
+          ],
+          "title": "Where the footage / finds its rhythm",
+          "images": [],
+          "cardTitle": "Post Production"
+        }
+      ],
+      "heroTitle": "From rough idea / to final export",
+      "studioCta": "Book a Session",
+      "studioLabel": "[Inside the studio]",
+      "studioTitle": "Come see where / the pixels behave",
+      "heroImageUrl": "",
+      "studioSlides": [],
+      "heroDescription": "Bring the half-formed thought, the overstuffed brief, or the blank page. We’ll turn it into content that feels clear, considered, and unmistakably yours.",
+      "studioDescription": "Want to see how we work? Book a session with the team and we will walk you through the process, the kit and the ideas we have for your brand."
+    }
+  }
+};

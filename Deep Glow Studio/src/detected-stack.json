@@ -1,0 +1,86 @@
+{
+  "site": "https://lumascreative.com/",
+  "capturedAt": "2026-11-25T00:00:00Z",
+  "platform": {
+    "current": "Custom React 19 SPA + Node.js/Express SSR-hydrated server (window.__INIT_DATA__ + /api/* REST JSON)",
+    "legacy": "WordPress + Elementor 3.27.6 (replaced in 2026)"
+  },
+  "bundler": {
+    "name": "Vite",
+    "version": "7.x",
+    "moduleFormat": "ESM",
+    "codeSplitting": ["react vendor chunk", "motion vendor chunk", "route-level lazy chunks"]
+  },
+  "frameworks": [
+    { "name": "React", "package": "react", "version": "19.x" },
+    { "name": "React DOM", "package": "react-dom", "version": "19.x" },
+    { "name": "React Router", "package": "react-router-dom", "version": "7.13.1" },
+    { "name": "Lucide React", "package": "lucide-react", "version": "0.546.0" }
+  ],
+  "css": {
+    "framework": "Tailwind CSS",
+    "version": "4.2.1",
+    "plugin": "@tailwindcss/vite",
+    "tokens": {
+      "--color-ink": "#000d11",
+      "--color-ink-2": "#07161b",
+      "--color-ink-3": "#0e2027",
+      "--color-ink-4": "#16292f",
+      "--color-fog": "#d6d6d6",
+      "--color-brand-cyan": "#22d3ee",
+      "--brand-gradient": "linear-gradient(90deg, #22d3ee 0%, #a855f7 55%, #d946ef 100%)",
+      "--ease-out-soft": "cubic-bezier(.22, 1, .36, 1)"
+    }
+  },
+  "animation": [
+    { "name": "Motion (Framer Motion)", "package": "framer-motion", "version": "12.x" },
+    { "name": "Lenis", "package": "lenis", "version": "1.3.26" },
+    {
+      "name": "Custom CSS Keyframes",
+      "keyframes": ["marquee", "card-breathe", "portfolio-ticker", "scroll-line", "dot-record"]
+    }
+  ],
+  "fonts": [
+    { "family": "Zen Dots", "weights": [400], "source": "/fonts/zen-dots-latin.woff2", "usage": "Display headings, navigation, CTAs, stat counters" },
+    { "family": "Inter", "weights": "100..900 (opsz 14..32)", "source": "/fonts/inter-latin.woff2", "usage": "Body copy and optical-size 32 display text" },
+    { "family": "Syne", "weights": "400..800", "source": "/fonts/syne-latin.woff2", "usage": "Uppercase portfolio hover tickers" },
+    { "family": "Poppins", "weights": [400, 600, 700], "source": "/fonts/poppins-latin-*.woff2", "usage": "Secondary headings and badges" },
+    { "family": "Urbanist", "weights": "100..900", "source": "/fonts/urbanist-latin.woff2", "usage": "Auxiliary UI labels" }
+  ],
+  "analyticsAndThirdParty": {
+    "analyticsTrackers": [],
+    "embedsAndExternalLinks": [
+      "www.youtube-nocookie.com",
+      "www.youtube.com",
+      "calendly.com",
+      "wa.me"
+    ]
+  },
+  "assetHostnames": [
+    "lumascreative.com",
+    "res.cloudinary.com",
+    "i.ytimg.com",
+    "img.youtube.com",
+    "lh3.googleusercontent.com",
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "publicApiEndpoints": [
+    "/api/init-data",
+    "/api/projects",
+    "/api/testimonials",
+    "/api/blogs",
+    "/api/settings",
+    "/api/team",
+    "/api/trusted-brands",
+    "/api/services",
+    "/api/albums",
+    "/api/process"
+  ],
+  "nonClonableServerFeatures": [
+    "/admin and /admin/login (authenticated CMS dashboard)",
+    "Socket.IO admin realtime channel",
+    "POST /api/subscribers (newsletter database write)",
+    "POST /api/messages and /api/appointments (server-side form/booking persistence)"
+  ]
+}

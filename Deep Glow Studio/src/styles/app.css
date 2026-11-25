@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Zen Dots", ui-sans-serif, system-ui, sans-serif;
+  --font-syne: "Syne", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-heading: "Poppins", ui-sans-serif, system-ui, sans-serif;
+  --font-urbanist: "Urbanist", ui-sans-serif, system-ui, sans-serif;
+
+  --color-ink: #000d11;
+  --color-ink-2: #07161b;
+  --color-ink-3: #0e2027;
+  --color-ink-4: #16292f;
+  --color-fog: #d6d6d6;
+  --color-brand-cyan: #22d3ee;
+}
+
+@import "./fonts.css";
+@import "./theme-tokens.css";
+@import "./components.css";
