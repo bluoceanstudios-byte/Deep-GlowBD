@@ -74,6 +74,10 @@ Only assets whose raw bytes were unreachable through Methods 1–5 (because `fet
 
 - **HTTP Route & Asset Audit**: `31/31` primary HTML routes, crawl files, and `/api/*` JSON endpoints returned `200 OK`; `124/124` unique local asset paths referenced across HTML/CSS/JS/JSON returned `200 OK` (`0` dead local refs, `0` unrewritten external CDN URLs).
 - **DOM & Console Audit**: All `20/20` React routes rendered and mounted cleanly with `0` console errors.
+- **Live Vercel Production Deployment**:
+  - **Live URL**: `https://deep-glow-studio-site.vercel.app`
+  - **Project**: `deep-glow-studio-site` (`prj_vuTnpXSafssEVrjoT1szAjCz3fy1`, `rootDirectory`: `Deep Glow Studio/site`)
+  - **Verified Live Routes**: All 16 seed URLs + all 3 `/shop/*` routes (`/shop/clovix`, `/shop/clovix-monitor`, `/shop/layerize`) + `/api/settings`, `/robots.txt`, `/sitemap.xml` verified `200 OK` on Vercel production.
 
 ---
 
