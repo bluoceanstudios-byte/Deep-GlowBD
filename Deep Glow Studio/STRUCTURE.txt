@@ -1,0 +1,120 @@
+Deep Glow Studio/
+├── RECON.md                                      # Step 1 recon summary (platform, stack, versions, fonts, hosts)
+├── DISCOVERY.md                                  # Step 2 verified URL & asset manifest (153 verified URLs)
+├── STRUCTURE.txt                                 # Annotated directory layout of the mirror & source tree
+├── REPORT.md                                     # Complete audit report, capture methods, counts, local run guide
+│
+├── site/                                         # Runnable self-contained static mirror (deployable as-is)
+│   ├── index.html                                # Pre-rendered Homepage (/) + window.__INIT_DATA__ + SPA mount
+│   ├── 404.html                                  # Pre-rendered NotFoundPage (* catch-all)
+│   ├── robots.txt                                # Rewritten crawl rules pointing to local /sitemap.xml
+│   ├── sitemap.xml                               # Rewritten XML sitemap (16 seed URLs + 3 /shop/* routes)
+│   ├── vercel.json                               # Clean URLs, /api/* JSON headers, verified redirects
+│   ├── favicon.ico                               # Multi-size favicon (16x16, 32x32, 48x48)
+│   ├── apple-touch-icon.png                      # 180x180 iOS home screen icon
+│   ├── icon-192.png                              # 192x192 PWA / Android icon
+│   │
+│   ├── projects/
+│   │   ├── index.html                            # /projects (27-film filterable portfolio + moving wall hero)
+│   │   ├── cmv4cmutf0000o10u2f9amm5m/index.html  # Egypt's National Day | Event Coverage
+│   │   ├── cmp3nmpws0003m90uqjj2d769/index.html  # Pixels | Aesthetic Stationery
+│   │   ├── cmp34utkk0001m90ubfml7xvc/index.html  # The Blueprint Ep-1
+│   │   ├── cmp3p0cp20004m90u0bemyne2/index.html  # The Room of Recording | Khalid Farhan
+│   │   ├── cmp351q190002m90upstyq8ei/index.html  # Is Iran Winning This War? | The Ramjan Show
+│   │   ├── cmp3pcv660005m90uqr5lrzyq/index.html  # Combat Sports Trailer | DHK of Jamuna Group
+│   │   ├── cmp3pezzw0006m90uxnfvmj7r/index.html  # ACS OVC | BUET DREAM
+│   │   └── cmp3pgiix0007m90uq47eevkx/index.html  # Is Dhaka University Admission Worth It? | ACS OVC
+│   │
+│   ├── about/index.html                          # /about (Team showcase, mission, 4 stats, values, reasons)
+│   ├── blogs/index.html                          # /blogs (Journal hero + empty state)
+│   ├── contact/index.html                        # /contact (Hero + Send Message / Book a Session tabs)
+│   ├── privacy-policy/index.html                 # /privacy-policy
+│   ├── terms-conditions/index.html               # /terms-conditions
+│   ├── refund-policy/index.html                  # /refund-policy
+│   │
+│   ├── shop/                                     # Discovered Lumas Shop routes beyond the 16 seed URLs
+│   │   ├── clovix/index.html                     # /shop/clovix ("This is not for sale." internal NLE)
+│   │   ├── clovix-monitor/index.html             # /shop/clovix-monitor ("This is not for sale." pipeline board)
+│   │   └── layerize/index.html                   # /shop/layerize (Free AE panel, intro video, zip, guides, FAQs)
+│   │
+│   ├── services/index.html                       # Static redirect stub -> /#workflow
+│   ├── design-projects/index.html                # Static redirect stub -> /projects
+│   ├── work/index.html                           # Static redirect stub -> /projects
+│   ├── portfolio/index.html                      # Static redirect stub -> /projects
+│   ├── blog/index.html                           # Static redirect stub -> /blogs
+│   ├── photo-albums/index.html                   # Static redirect stub -> /
+│   │
+│   ├── assets/                                   # Compiled local bundles (cache-busters stripped, zero analytics)
+│   │   ├── app.css                               # Tailwind CSS v4.2.1 + custom Lumas Creative design tokens
+│   │   ├── app.js                                # First-party application bundle
+│   │   ├── vendor-react.js                       # React 19 + React Router v7.13.1 vendor chunk
+│   │   ├── vendor-motion.js                      # Framer Motion + Lenis v1.3.26 vendor chunk
+│   │   └── vendor-icons.js                       # Lucide React v0.546.0 icon vendor chunk
+│   │
+│   ├── fonts/                                    # Self-hosted WOFF2 fonts (zero Google Fonts network requests)
+│   │   ├── zen-dots-latin.woff2                  # Zen Dots 400 Latin (exact 14,716-byte upstream file)
+│   │   ├── zen-dots-latin-ext.woff2              # Zen Dots 400 Latin Extended
+│   │   ├── inter-latin.woff2                     # Inter variable (wght + opsz 14..32)
+│   │   ├── syne-latin.woff2                      # Syne variable (portfolio hover tickers)
+│   │   ├── poppins-latin-400.woff2               # Poppins Regular
+│   │   ├── poppins-latin-600.woff2               # Poppins SemiBold
+│   │   ├── poppins-latin-700.woff2               # Poppins Bold
+│   │   └── urbanist-latin.woff2                  # Urbanist variable
+│   │
+│   ├── api/                                      # Public anonymous JSON data feeds (local-rewritten URLs)
+│   │   ├── init-data & init-data.json            # Full hydrated CMS + DB state
+│   │   ├── projects & projects.json              # 8 DB case-study projects
+│   │   ├── settings & settings.json              # Studio contact, social, showreel, legal policies
+│   │   ├── team & team.json                      # 5 team members
+│   │   ├── testimonials & testimonials.json      # Client video testimonial (akhysami)
+│   │   ├── trusted-brands & trusted-brands.json  # 8 trusted brands
+│   │   ├── blogs & blogs.json                    # []
+│   │   ├── services & services.json              # []
+│   │   ├── albums & albums.json                  # []
+│   │   └── process & process.json                # []
+│   │
+│   ├── brands/on-dark/                           # 8 white-on-dark marquee brand logos (airtel, bkash, gp, etc.)
+│   ├── creators/                                 # 7 Bangladeshi creator portraits (Rafsan, Ayman, Munzereen, etc.)
+│   ├── brand/                                    # 4 Lumas Shop product marks (clovix.svg, layerize.svg, etc.)
+│   ├── video/layerize-intro.mp4                  # Local H.264 MP4 walkthrough for /shop/layerize
+│   ├── downloads/Layerize-v1.0.0.zip             # Downloadable Layerize v1.0.0 demo archive
+│   │
+│   ├── res.cloudinary.com/dyyrjhuho/             # Local mirror of Cloudinary CDN (cloud: dyyrjhuho)
+│   │   ├── image/upload/...                      # Projects, brands, testimonial, and site settings images
+│   │   ├── team/...                              # 5 team portraits (mapped from Google Drive image/fetch URLs)
+│   │   └── video/upload/...                      # Studio showreel MP4 + poster JPG
+│   │
+│   ├── i.ytimg.com/                              # Local mirror of YouTube thumbnail CDN (all 28 video IDs)
+│   │   ├── vi/<videoId>/{maxresdefault,hqdefault,mqdefault,oar2}.jpg
+│   │   └── vi_webp/F4zKWosGHQ4/maxresdefault.webp
+│   │
+│   ├── img.youtube.com/vi/<videoId>/             # Local mirror of img.youtube.com thumbnails
+│   │
+│   └── original/                                 # Untouched upstream files preserved for diffing
+│       ├── robots.txt
+│       ├── sitemap.xml
+│       ├── api/*.json                            # Verbatim unmodified JSON from lumascreative.com/api/*
+│       ├── cloudinary-brands/*.png               # Verbatim cached Cloudinary brand PNGs
+│       ├── cloudinary-projects/*.jpg             # Verbatim cached Cloudinary project JPGs
+│       └── yt-thumbnails/*                       # Verbatim cached YouTube thumbnails
+│
+└── src/                                          # Readable, modularized source code & extracted artifacts
+    ├── detected-stack.json                       # Machine-readable stack, versions, tokens, routes, hosts
+    ├── vendor/vendor-manifest.json               # Vendor vs first-party bundle mapping
+    ├── extracted/
+    │   ├── inline-init-data.js                   # Pretty-printed window.__INIT_DATA__ payload
+    │   ├── seo-metadata.json                     # Extracted OpenGraph/Twitter/JSON-LD metadata per route
+    │   └── shaders/README.md                     # Shader audit note (zero WebGL/GLSL shaders on target)
+    ├── styles/
+    │   ├── app.css                               # Tailwind v4.2.1 @theme & entry stylesheet
+    │   ├── fonts.css                             # @font-face declarations
+    │   ├── theme-tokens.css                      # De-minified custom CSS variables
+    │   └── components.css                        # De-minified glass, sheen, marquee, breathe & ticker rules
+    └── app/                                      # Modular React 19 + React Router 7.13.1 source components
+        ├── main.jsx
+        ├── App.jsx
+        ├── context/DataContext.jsx
+        ├── data/catalog.js
+        ├── utils/media.js
+        ├── components/                           # Navbar, Footer, SmoothScroll, SeoHead, VideoModal, etc.
+        └── pages/                                # HomePage, ProjectsPage, ProjectDetailPage, AboutPage, etc.

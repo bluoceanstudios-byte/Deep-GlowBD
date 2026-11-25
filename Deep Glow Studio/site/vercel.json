@@ -1,0 +1,36 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/services", "destination": "/#workflow", "permanent": false },
+    { "source": "/design-projects", "destination": "/projects", "permanent": true },
+    { "source": "/work", "destination": "/projects", "permanent": true },
+    { "source": "/portfolio", "destination": "/projects", "permanent": true },
+    { "source": "/portfolio/:category", "destination": "/projects?category=:category", "permanent": false },
+    { "source": "/project/:id", "destination": "/projects/:id", "permanent": true },
+    { "source": "/blog", "destination": "/blogs", "permanent": true },
+    { "source": "/photo-albums", "destination": "/", "permanent": false }
+  ],
+  "headers": [
+    {
+      "source": "/api/(.*)",
+      "headers": [
+        { "key": "Content-Type", "value": "application/json; charset=utf-8" },
+        { "key": "Cache-Control", "value": "public, max-age=3600" }
+      ]
+    },
+    {
+      "source": "/fonts/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    },
+    {
+      "source": "/assets/(.*)",
+      "headers": [
+        { "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }
+      ]
+    }
+  ]
+}
