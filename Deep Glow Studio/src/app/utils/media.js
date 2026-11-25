@@ -26,14 +26,9 @@ export function toLocalAssetUrl(url) {
   for (const [driveId, localPath] of Object.entries(DRIVE_TEAM_MAP)) {
     if (str.includes(driveId)) return localPath;
   }
-  if (str.startsWith("https://res.cloudinary.com/")) {
-    return str.replace("https://res.cloudinary.com/", "/res.cloudinary.com/");
-  }
-  if (str.startsWith("https://img.youtube.com/")) {
-    return str.replace("https://img.youtube.com/", "/img.youtube.com/");
-  }
-  if (str.startsWith("https://i.ytimg.com/")) {
-    return str.replace("https://i.ytimg.com/", "/i.ytimg.com/");
+  const cdnMatch = str.match(/^https?:\/\/(res\.cloudinary\.com|img\.youtube\.com|i\.ytimg\.com)\/(.*)$/);
+  if (cdnMatch) {
+    return `/${cdnMatch[1]}/${cdnMatch[2]}`;
   }
   return str;
 }
