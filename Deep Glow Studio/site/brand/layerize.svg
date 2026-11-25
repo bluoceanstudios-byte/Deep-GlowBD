@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 120" fill="none">
+  <defs>
+    <linearGradient id="lg" x1="16" y1="20" x2="96" y2="100" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="55%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#d946ef"/>
+    </linearGradient>
+  </defs>
+  <rect x="20" y="24" width="72" height="72" rx="20" fill="#07161b" stroke="url(#lg)" stroke-width="2.5"/>
+  <path d="M56 36L80 48L56 60L32 48L56 36Z" fill="#22d3ee"/>
+  <path d="M32 58L56 70L80 58" stroke="#a855f7" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M32 69L56 81L80 69" stroke="#d946ef" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="112" y="65" fill="#ffffff" font-family="system-ui,-apple-system,sans-serif" font-size="30" font-weight="700" letter-spacing="0.03em">Layerize</text>
+  <text x="113" y="88" fill="#94a3b8" font-family="system-ui,-apple-system,sans-serif" font-size="13" letter-spacing="0.08em">HTML → AFTER EFFECTS</text>
+</svg>
