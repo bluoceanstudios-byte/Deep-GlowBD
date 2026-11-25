@@ -1,0 +1,66 @@
+[
+  {
+    "id": "cmoyt24gt0006az2kx687bioo",
+    "name": "airtel",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359042/lumas-portfolio/brands/xpunbiq1dfwnxbiwsfss.png",
+    "sortOrder": 2,
+    "createdAt": "2026-05-09T20:37:24.126Z",
+    "updatedAt": "2026-05-09T20:37:24.126Z"
+  },
+  {
+    "id": "cmoyt28980007az2k5jdgxjix",
+    "name": "bkashj",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359047/lumas-portfolio/brands/blp5zqjzfhn9g8d8utg1.png",
+    "sortOrder": 3,
+    "createdAt": "2026-05-09T20:37:29.037Z",
+    "updatedAt": "2026-05-09T20:37:29.037Z"
+  },
+  {
+    "id": "cmoyt2mi4000aaz2kylx8bkdd",
+    "name": "gp",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359065/lumas-portfolio/brands/vwetkbn8ncvaz7r0aun1.png",
+    "sortOrder": 5,
+    "createdAt": "2026-05-09T20:37:47.501Z",
+    "updatedAt": "2026-05-09T20:37:47.501Z"
+  },
+  {
+    "id": "cmoyt2r3l000baz2kogj8cj4y",
+    "name": "ABG",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359069/lumas-portfolio/brands/vlfoiyecqoffaq47fvtb.png",
+    "sortOrder": 6,
+    "createdAt": "2026-05-09T20:37:53.457Z",
+    "updatedAt": "2026-05-09T20:37:53.457Z"
+  },
+  {
+    "id": "cmp429iyh0009m90ut4d8ts6k",
+    "name": "edison",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778676831/lumas-portfolio/brands/qpqprjj0wmtnlbuyeoqs.png",
+    "sortOrder": 7,
+    "createdAt": "2026-05-13T12:53:56.922Z",
+    "updatedAt": "2026-05-13T12:53:56.922Z"
+  },
+  {
+    "id": "cmoyt2uz7000caz2k7uzwoswr",
+    "name": "sc",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359077/lumas-portfolio/brands/ptyzyswosfagbuu9coqp.png",
+    "sortOrder": 7,
+    "createdAt": "2026-05-09T20:37:58.484Z",
+    "updatedAt": "2026-05-09T20:37:58.484Z"
+  },
+  {
+    "id": "cmoyt2yfc000daz2kiwc5zvej",
+    "name": "suzuki",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359081/lumas-portfolio/brands/sqjsvgofgx65nddsx5xr.png",
+    "sortOrder": 8,
+    "createdAt": "2026-05-09T20:38:02.953Z",
+    "updatedAt": "2026-05-09T20:38:02.953Z"
+  },
+  {
+    "id": "cmoyt6u2j000faz2kjqp8pkyw",
+    "name": "10ms",
+    "logoUrl": "/res.cloudinary.com/dyyrjhuho/image/upload/v1778359261/lumas-portfolio/brands/peelfseqdc4xrm2vy33r.png",
+    "sortOrder": 10,
+    "createdAt": "2026-05-09T20:41:03.931Z",
+    "updatedAt": "2026-05-09T20:41:03.931Z"
+  }
+]

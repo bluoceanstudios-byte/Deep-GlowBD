@@ -1,0 +1,62 @@
+[
+  {
+    "id": "cmoyifgav0001be2lg9rbtq5c",
+    "name": "Towfiq Islam",
+    "role": "Founder & Head of Production",
+    "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/towfiq-islam.jpg",
+    "facebookUrl": null,
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "sortOrder": 0,
+    "createdAt": "2026-05-09T15:39:50.148Z",
+    "updatedAt": "2026-10-11T22:02:35.513Z"
+  },
+  {
+    "id": "cmoyijmlf0003be2lzbzqfheg",
+    "name": "Saad Alam",
+    "role": "Lead Editor & Cinematographer",
+    "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/saad-alam.jpg",
+    "facebookUrl": null,
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "sortOrder": 1,
+    "createdAt": "2026-05-09T15:43:04.934Z",
+    "updatedAt": "2026-10-11T22:02:35.513Z"
+  },
+  {
+    "id": "cmoyihhk70002be2lvuqh2wrz",
+    "name": "Tawhid Nafis",
+    "role": "Senior Editor & Lead Designer",
+    "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/tawhid-nafis.jpg",
+    "facebookUrl": null,
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "sortOrder": 2,
+    "createdAt": "2026-05-09T15:41:24.754Z",
+    "updatedAt": "2026-10-11T22:02:35.513Z"
+  },
+  {
+    "id": "cmoysa5vf0004az2k1yysyfp0",
+    "name": "Mahmudur Rahman",
+    "role": "Cinematographer",
+    "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/mahmudur-rahman.jpg",
+    "facebookUrl": null,
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "sortOrder": 3,
+    "createdAt": "2026-05-09T20:15:39.580Z",
+    "updatedAt": "2026-10-11T22:02:35.513Z"
+  },
+  {
+    "id": "cmoys8iwl0003az2khf8cbc1r",
+    "name": "Fahim Rahman",
+    "role": "Cinematographer",
+    "imageUrl": "/res.cloudinary.com/dyyrjhuho/team/fahim-rahman.jpg",
+    "facebookUrl": null,
+    "linkedinUrl": null,
+    "instagramUrl": null,
+    "sortOrder": 4,
+    "createdAt": "2026-05-09T20:14:23.157Z",
+    "updatedAt": "2026-10-11T22:02:35.513Z"
+  }
+]
